@@ -1,0 +1,61 @@
+	body{
+			overflow: hidden;
+			background-color: 	#ADD8E6
+		}
+
+	    .header {
+	    	background-color: #ffffff;
+			text-align: center;
+			height      : 10%;
+		}
+
+		.mypic {
+		    text-align: center;
+		    padding-top: 10px;
+
+		}
+
+		.foto img {
+			width: 150px;
+			height: 200px;
+		}
+
+		.content {
+        	background-color: #ffffff;
+        	min-height: 20px;
+
+        }
+
+        .aboutme{
+			padding-left: 300px;
+		}
+		
+			
+	     .footer {
+	       min-height: 50px;
+	   }
+	     .findme{
+			height: 20px;
+			width: 20px;
+
+		}
+
+		.row {
+		  display: -ms-flexbox;
+		  display: flex;
+		  -ms-flex-wrap: wrap;
+		  flex-wrap: wrap;
+		  margin-right: -15px;
+		  margin-left: -15px;
+		}
+
+		.findme{
+			height: 50px;
+			width: 50px;
+
+		}
+
+		.findme_center{
+			padding-left: 400px;	
+		}
+		
